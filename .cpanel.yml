@@ -1,5 +1,5 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/zubee
+    - export DEPLOYPATH=/home/atomus/public_html/zubee
     - /bin/cp dist $DEPLOYPATH
     # - /bin/cp style.css $DEPLOYPATH
